@@ -1,2 +1,4 @@
 def main():
-    pass
+    print('tt')
+
+main()
